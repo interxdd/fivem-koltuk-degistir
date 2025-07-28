@@ -7,10 +7,11 @@ Bu FiveM scripti, oyuncuların araçtayken `/koltuk [numara]` komutunu kullanara
 
 ```
 ---
+
+
+ ## 📦 Özellikler
+
 ```
-
- 📦 Özellikler
-
 - Oyuncular araç içerisindeyken koltuk değiştirebilir
 - Koltuk doluysa uyarı verir
 - Araçta değilse hata mesajı gösterir
@@ -19,10 +20,10 @@ Bu FiveM scripti, oyuncuların araçtayken `/koltuk [numara]` komutunu kullanara
 
 ```
 ---
+
+
+## 🔢 Koltuk Numaraları
 ```
-
- 🔢 Koltuk Numaraları
-
 | Yazılan Komut  | Geçilen Koltuk    |
 |----------------|--------------------|
 | `/koltuk 1`    | 🚗 Sürücü koltuğu  |
@@ -34,10 +35,10 @@ Bu FiveM scripti, oyuncuların araçtayken `/koltuk [numara]` komutunu kullanara
 
 ```
 ---
+
+
+## 🛠️ Kurulum
 ```
-
- 🛠️ Kurulum
-
 1. Aşağıdaki dosyaları bir klasöre yerleştirin:  
    Örneğin: `resources/koltukkomutu/`
 
